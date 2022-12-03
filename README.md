@@ -1,7 +1,6 @@
 # Kodluyoruz Ilk Repo
 
 ## Bu repo [Kodluyoruz](kodluyoruz.com) ve [Patika](patika.dev) Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![asda](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 # Installation
 ## Öncelikle projeyi clonelayın.(buraya sizin reponuzdan aldığınız link gelecek)
